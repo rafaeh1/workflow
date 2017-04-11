@@ -3,7 +3,7 @@ deployment:
     branch: master
     commands:
       - $DOCKER_HUB_TRIGGER
-      
+
 machine:
   node:
     version: 6.10
